@@ -8,6 +8,7 @@ public class gridpush {
 	public void hello()
 	{
 		System.out.println("hello");
+		System.out.println("hello second");
 	}
 
 }
