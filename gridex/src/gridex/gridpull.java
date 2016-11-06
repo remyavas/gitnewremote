@@ -8,6 +8,7 @@ public class gridpull {
 	{
 		System.out.print("Pull");
 		System.out.print("Pull sec");
+		System.out.print("Pull third");
 	}
 
 }
